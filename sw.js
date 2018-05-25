@@ -9,7 +9,8 @@ const CACHE_NAME = 'v1_cache_programador_test',
     './style.css',
     './script.js',
     './img/ProgramadorTest.png',
-    './img/favicon.png'
+    './img/favicon.png',
+    'https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos

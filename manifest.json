@@ -1,9 +1,9 @@
 {
     "name": "ProgramadorTest",
-    "short_name": "ProgramadorTest",
+    "short_name": "#ProgTest",
     "description": "Programador Test practica de una web hecha pwa",
     "background_color": "#2B2B2B",
-    "theme_color": "#b0b0b0",
+    "theme_color": "#4d727eab",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./?utm_source=web_app_manifest",
