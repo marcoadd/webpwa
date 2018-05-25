@@ -1,0 +1,85 @@
+/* Custom Properties */
+:root {
+    --main-color: rgb(255, 255, 255);
+    --main-modal-color: rgba(77, 114, 126, 0.671);
+    --second-color: rgba(0, 0, 0, 0.473);
+    --second-modal-color: rgba(255, 255, 255, 0.801);
+  }
+  
+  html {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 2;
+    color: var(--second-color);
+    background-color: var(--main-modal-color);
+  }
+
+
+  body {
+    margin: 2rem auto;
+    overflow-x: hidden;
+    max-width: 800px;
+  }
+  
+  a {
+    font-weight: bold;
+    color: var(--second-color);
+    transition: all .3s ease-out;
+  }
+  
+  a:hover {
+    color: var(--second-modal-color);
+  }
+  
+  p {
+    padding: 1rem;
+    font-size: 1.25rem;
+  }
+  
+  ::selection {
+    background-color: var(--second-color);
+    color: var(--main-color);
+  }
+  
+  .Header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .Header h1 { word-wrap: break-word; }
+  
+  .Header img {
+    margin: 0 auto;
+    display: block;
+    max-width: 150px;
+    border-radius: 50%;
+  }
+  
+  .Header nav {
+    padding: 2rem 0;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 3rem;
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+hr{
+    display: flex;
+    justify-content: space-evenly;
+    border-color:rgb(0, 0, 0);
+    width: 100%;
+
+  }
+
+  .footer p{
+    font-size: 3 rem;
+  }
+
+
