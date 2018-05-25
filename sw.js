@@ -8,8 +8,8 @@ const CACHE_NAME = 'v1_cache_programador_test',
     'https://use.fontawesome.com/releases/v5.0.6/webfonts/fa-brands-400.woff2',
     './style.css',
     './script.js',
-    './img/ProgramadorTest.png',
-    './img/favicon.png',
+    './img/ProgramadorTest.jpg',
+    './img/favicon.jpg',
     'https://use.fontawesome.com/releases/v5.0.13/css/all.css'
   ]
 
