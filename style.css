@@ -1,9 +1,9 @@
 /* Custom Properties */
 :root {
     --main-color: rgb(255, 255, 255);
-    --main-modal-color: rgba(77, 114, 126, 0.671);
-    --second-color: rgba(0, 0, 0, 0.473);
-    --second-modal-color: rgba(255, 255, 255, 0.801);
+    --main-modal-color: rgba(192, 192, 192, 0.897);
+    --second-color: rgb(0, 0, 0);
+    --second-modal-color: rgba(100, 100, 100, 0.801);
   }
   
   html {
