@@ -9,8 +9,7 @@ const CACHE_NAME = 'v1_cache_programador_test',
     './style.css',
     './script.js',
     './img/ProgramadorTest.jpg',
-    './img/favicon.jpg',
-    'https://use.fontawesome.com/releases/v5.0.13/css/all.css'
+    './img/favicon.jpg'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
