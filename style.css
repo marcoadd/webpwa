@@ -50,11 +50,15 @@
   
   .Header h1 { word-wrap: break-word; }
   
+  .Header picture{
+    margin: auto;
+  }
+
   .Header img {
     margin: 0 auto;
     display: block;
-    max-width: 150px;
-    border-radius: 50%;
+    max-width: 192px;
+    border-radius: 100%;
   }
   
   .Header nav {
@@ -70,7 +74,7 @@
     text-align: center;
   }
 
-hr{
+  hr{
     display: flex;
     justify-content: space-evenly;
     border-color:rgb(0, 0, 0);
