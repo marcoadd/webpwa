@@ -1,6 +1,6 @@
 {
     "name": "ProgramadorTest",
-    "short_name": "#ProgTest",
+    "short_name": "ProgTest",
     "description": "Programador Test practica de una web hecha pwa",
     "background_color": "#464747",
     "theme_color": "#ccd0d1",
